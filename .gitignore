@@ -1,2 +1,8 @@
-# IDE
+# ide
 .idea
+
+# misc
+.env
+
+# dependencies
+node_modules/
